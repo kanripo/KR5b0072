@@ -1,7 +1,0 @@
-# -*- mode: mandoku-view; -*-
-#+DATE: 2015-08-28 23:48:18.569352
-#+TITLE: 太上靈寶五符序
-#+PROPERTY: DZID  DZ0388
-#+PROPERTY: SOURCE  正統道藏，三家本，1988，6—315 三卷 洞玄部神符類
-#+PROPERTY: BASEEDITION HFL
-#+PROPERTY: WITNESS HFL

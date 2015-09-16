@@ -1,11 +1,3 @@
-#+TITLE: 太上靈寶五符序 / HFL
+#+TITLE: Data branch for _data
 
-#+DATE: 2015-08-28 23:48:18.665913
-* 版本
- |       HFL|【正統道藏・涵芬樓版】|
- |      ZTDZ|【正統道藏・三家本】|
-目次
- - [[file:KR5b0072_000.txt][太上靈寶五符序 0]]
- - [[file:KR5b0072_001.txt][太上靈寶五符序 1]]
- - [[file:KR5b0072_002.txt][太上靈寶五符序 2]]
- - [[file:KR5b0072_003.txt][太上靈寶五符序 3]]
+This branch contains data files that are used by the system.  The folder =imglist= has a list of digital facsimile pages for each file of the text.  This information is used to display text and image side-by-side.
